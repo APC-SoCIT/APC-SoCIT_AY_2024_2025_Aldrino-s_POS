@@ -57,7 +57,7 @@ Aldrino’s POS System is designed for simplicity and efficiency, transforming t
 
 The testing process includes:
 - **User Acceptance Testing (UAT)**: Simulates real-world scenarios to ensure a smooth user experience.
-- **Manual Testing**: Performed by our team developers to rigorously test each feature one by one, ensuring everything works as intended.
+- **Manual Testing**: Performed by our team to rigorously test each feature one by one, ensuring everything works as intended.
 - **Functional and Non-Functional Testing**: Validates transaction handling, inventory updates, and reporting features.
 - **Defect Management**: JIRA is used for logging and tracking bugs, with regular team updates and issue resolutions.
 
