@@ -74,6 +74,6 @@ To report any issues or potential security vulnerabilities, please contact our d
 We appreciate your help in keeping our project secure.
 
 ### License
+This project is open-source but is licensed under the **Aldrino's POS System Non-Commercial License**. You are free to use, modify, and distribute this software, but **commercial use is prohibited** without prior permission.
 
-This project is open-source and licensed under the [MIT license](https://github.com/APC-SoCIT/APC-SoCIT_AY_2024_2025_Aldrino-s_POS/blob/main/LICENSE).
-
+For more details, please see the [LICENSE](https://github.com/APC-SoCIT/APC-SoCIT_AY_2024_2025_Aldrino-s_POS/blob/main/LICENSE) file.
